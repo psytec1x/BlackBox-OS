@@ -1,6 +1,7 @@
 # BlackBox-OS
 
 Ein USB-Stick für Hacker und Technikbegeisterte mit einem voll funktionsfähigen Bootloader, einem anpassbaren Benutzerinterface und zahlreichen vorinstallierten Tools.
+Gerne können hier noch Tools und Funktionen hinzugefügt werden.
 
 Das Konzept wird mit zusätzlichen vorinstallierten Tools erweitert, darunter spezialisierte Anwendungen aus verschiedenen Kategorien wie Account-Checker, Cracker, Dork-Tools, Network-Tools, Sniffer, Scanner und WLAN-Hacking-Tools. Ziel ist ein vollständig ausgestatteter, vielseitiger USB-Stick für Penetration-Testing, Hacking und technikaffine Aufgaben.
 
